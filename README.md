@@ -1,4 +1,5 @@
 # RanSoft-Softs
+# 请选择程序对应的文件夹双击打开
 
 这是ransoft.tk的软件目录
 
